@@ -1,4 +1,4 @@
-grunt-bootstrap-boilerplate
+grunt-bootstrap.3.3.4-boilerplate
 ===========================
 
 This is an updated repo created from [tlack's grunt-bootstrap-boilerplate](https://github.com/tlack/grunt-bootstrap-boilerplate)
